@@ -1,4 +1,0 @@
-cooper
-======
-
-My personal repository
